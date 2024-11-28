@@ -1,0 +1,4 @@
+	node_modules
+	todo-2024.pem
+	.env
+	.prod.env
